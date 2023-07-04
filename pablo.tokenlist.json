@@ -16,7 +16,7 @@
       "symbol": "PABLO",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://www.pabloeth.xyz/assets/images/fav.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4922a015c4407F87432B179bb209e125432E4a2A/logo.png"
     }
   ]
 }
